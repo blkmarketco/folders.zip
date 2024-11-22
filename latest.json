@@ -3,8 +3,8 @@
     "notes": "New update",
     "platforms": {
         "darwin-x86_64": {
-            "signature": "",
-            "url": ""
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSc2FlelIvSmxkTVdqYnNuUXRjK2lmWGlDU2hpZkRHSmlhelRPUldsTzMwbVpxcE9zdDV3UWJwakZ5cUVSY2Jiem5ZdHU0VkRwTHpYdXhPd0VXckh2bjRXUmF2RTM2aFFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzMyMjk1NTY5CWZpbGU6Zm9sZGVycy5hcHAudGFyLmd6CkRwcTBydDRUN3lyYjAxd2g2RXQvMDJEVGRiTXVleGEyeUN4ZWY5NmFUbjh2NU9xYWN0b3NDZXZGc2RVdTc3alhOWERNdU5tYkNDWUY0TzdBQ2pkVURnPT0K",
+            "url": "https://github.com/blkmarketco/folders.zip/releases/download/v0.0.5/folders.app.tar.gz"
         }
     }
 }
